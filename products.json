@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "name": "Classic T-Shirt",
+    "category": "Apparel",
+    "price": 799,
+    "tags": ["Casual", "Cotton", "Basic"],
+    "stock": 25,
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600",
+    "description": "A comfortable cotton t-shirt suitable for everyday casual wear."
+  },
+  {
+    "id": 2,
+    "name": "Running Shoes",
+    "category": "Apparel",
+    "price": 2499,
+    "tags": ["Sports", "Running", "Comfort"],
+    "stock": 15,
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600",
+    "description": "Lightweight running shoes designed for comfort and daily workouts."
+  },
+  {
+    "id": 3,
+    "name": "Classic Watch",
+    "category": "Accessories",
+    "price": 3499,
+    "tags": ["Elegant", "Classic", "Formal"],
+    "stock": 10,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600",
+    "description": "A stylish classic watch suitable for formal and casual occasions."
+  },
+  {
+    "id": 4,
+    "name": "Leather Handbag",
+    "category": "Accessories",
+    "price": 2999,
+    "tags": ["Leather", "Fashion", "Premium"],
+    "stock": 12,
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600",
+    "description": "A premium handbag with a stylish design and spacious interior."
+  },
+  {
+    "id": 5,
+    "name": "Modern Sofa",
+    "category": "Home",
+    "price": 5499,
+    "tags": ["Modern", "Furniture", "Comfort"],
+    "stock": 5,
+    "image_url": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600",
+    "description": "A modern comfortable sofa that fits perfectly into contemporary homes."
+  },
+  {
+    "id": 6,
+    "name": "Table Lamp",
+    "category": "Home",
+    "price": 1299,
+    "tags": ["Lighting", "Modern", "Decor"],
+    "stock": 20,
+    "image_url": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600",
+    "description": "A modern table lamp designed to add warm lighting to your room."
+  },
+  {
+  
+    "id": 7,
+    "name": "Denim Jacket",
+    "category": "Apparel",
+    "price": 2199,
+    "tags": ["Denim", "Casual", "Fashion"],
+    "stock": 18,
+    "image_url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=600",
+    "description": "A fashionable denim jacket perfect for casual everyday outfits."    
+
+  },
+  {
+      "id": 8,
+      "name": "Wireless Headphones",
+      "category": "Accessories",
+      "price": 3999,
+      "tags": ["Wireless", "Music", "Technology"],
+      "stock": 14,
+      "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
+      "description": "Wireless headphones offering comfortable listening and clear sound."
+    }
+]    
