@@ -443,4 +443,3 @@ else:
                     ):
 
                         show_product_details(product)
-

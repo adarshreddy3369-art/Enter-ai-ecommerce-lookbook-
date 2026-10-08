@@ -18,4 +18,3 @@ OPENAI_API_KEY=sk-your-key-here
 ```
 
 Without an API key, the catalog remains usable with local semantic matching. With a valid key, it uses OpenAI embeddings (`text-embedding-3-small`) for richer search results.
-
